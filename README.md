@@ -74,7 +74,7 @@ npx live-server
 
 📚 Project Structure
 
-Weather-app
+Weather-app/
 ├── assets/               # Icons, images, CSS
 ├── index.html            # Main entry point
 ├── script.js             # JavaScript logic
