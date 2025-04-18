@@ -1,4 +1,5 @@
 ☁️ Weather App
+
 A sleek and responsive weather forecast app that displays current weather conditions and future forecasts using real-time API data.
 
 
